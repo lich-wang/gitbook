@@ -1,3 +1,4 @@
 # Table of contents
 
-* [AI 本地部署](README.md)
+* [概述](README.md)
+* [硬件选择](ying-jian-xuan-ze.md)
