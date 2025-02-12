@@ -4,3 +4,4 @@
 * [技术架构](ji-shu-jia-gou.md)
 * [硬件选择](ying-jian-xuan-ze.md)
 * [用户手册](yong-hu-shou-ce.md)
+* [管理员手册](guan-li-yuan-shou-ce.md)
