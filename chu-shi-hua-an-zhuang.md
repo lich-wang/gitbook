@@ -42,3 +42,9 @@
     3. 访问192.168.2.30:8080, 确认OpenWebUI 登录正常
     4. 访问192.168.2.30:9090，确认Cockpit管理面板正常
     5. 通过 ssh 192.168.2.30 确认 ssh端口正常
+
+恢复方法
+
+```bash
+sudo gzip -dc /path/to/backup/nvme0n1_backup.img.gz | sudo dd of=/dev/sda bs=64K conv=noerror,sync status=progress
+```
